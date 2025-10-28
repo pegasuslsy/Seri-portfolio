@@ -8,23 +8,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Come and see how I tell stories with data！
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! This is Seri. Actually, I’d like to tell you a bit more about my English name — Seri. It comes from a Korean drama where the heroine owns a company called Seri’s Choice. In the show, she once said, “Whether it’s a choice that depends on luck or one that depends on ability, I always make the right choice.” I really like that quote, and I hope that in my own life, I can also turn every choice I make into the right one.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. how to turn complex datasets into clear visualization
+2. how to identify the narrative structure behind data
+3. how to balance accuracy with storytelling
 
 # Portfolio
 
@@ -44,7 +38,9 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Things you want to share most
+
+## What you have learned from this class
 
 ### Changing text
 
