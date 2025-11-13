@@ -24,6 +24,86 @@ Also, I want to work as a marketing analyst after graduation.
 
 # Portfolio
 
+# Makeover Monday Assignment #2  
+## Redesign of “Christmas gifts most desired by UK consumers in 2024”
+
+## 1. Original Visualization
+Below is the original data visualization sourced from Statista:
+
+https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/#statisticContainer
+
+**Source:** Statista, “Most desired Christmas gifts in the UK (2024)”.
+
+
+## 2. Critique Summary (Using Stephen Few’s Effectiveness Profile)
+
+**Usefulness:**  
+The chart is useful and communicates the basic ranking of gift preferences. However, the visualization is long and contains too many items without grouping, which increases reading effort.
+
+**Completeness:**  
+The visualization includes categories and percentages but lacks additional context such as sample size and methodology.
+
+**Perceptibility:**  
+While readable, the uniform blue color makes it difficult to distinguish types of gifts. Long vertical scanning increases cognitive load.
+
+**Truthfulness:**  
+The data appears accurate and is not misleading. No manipulation of the scale.
+
+**Intuitiveness:**  
+The horizontal bar chart format is familiar, but the large number of bars reduces intuitive readability.
+
+**Aesthetics:**  
+Clean but visually plain. No visual hierarchy, color variation, or storytelling components.
+
+**Engagement:**  
+Informative but not engaging. It doesn’t draw the viewer into exploring or noticing key insights.
+
+
+## 3. Redesign Goals
+Based on the critique, my redesign focused on:
+
+1. **Reducing cognitive load** by grouping categories into logical gift types  
+2. **Improving visual hierarchy** using color coding  
+3. **Highlighting key insights** with annotations  
+4. **Creating a more structured and intuitive layout**  
+5. **Enhancing storytelling** without overwhelming the viewer  
+
+## 4. Data Preparation
+I cleaned and grouped the dataset into four meaningful categories:
+
+- **Gift Items** (e.g., clothing, books, electronics)  
+- **Monetary Gifts** (money, gift cards)  
+- **Experience-Based Gifts** (food/drinks, travel, event tickets)  
+- **Other / Non-Gift Responses** (don’t know, don’t want anything)
+
+## 5. Wireframes
+Before building the final version, I sketched several layout options.  
+This helped determine grouping structure, color palette, and annotation placement.
+
+## 6. User Feedback Summary
+I shared my wireframes with a classmate and asked for quick feedback.  
+Key takeaways:
+
+- Grouping categories made the chart easier to follow  
+- Adding colors for each group significantly improved clarity  
+- The viewer wanted key insights highlighted instead of requiring them to scan the full chart   
+
+This feedback helped shape the final design.
+
+## 7. Final Redesigned Visualization (Tableau)
+Here is my final version, redesigned in Tableau using grouped horizontal bar charts:
+https://public.tableau.com/app/profile/shiyu.liu5683/viz/MostDesiredChristmasGiftsintheUK/Sheet1?publish=yes
+
+### Key Improvements:
+- Added **semantic grouping** for clarity  
+- Applied **distinct color themes** per group (Gift Items, Monetary, Experience, Other)   
+- Reduced scrolling and improved readability  
+- Strengthened storytelling  
+
+## 8. Key Insight
+**Clothing remains the most desired Christmas gift in the UK (41%), followed closely by monetary gifts (39%), indicating strong consumer preference for flexibility.**
+
+
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
