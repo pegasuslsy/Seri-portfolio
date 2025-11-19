@@ -28,7 +28,7 @@ business.json – restaurant name, categories, rating, review count, price range
 
 Key Variables: business_id, categories, stars, review_count
 
-I have successfully tested loading sample entries to confirm the data structure and feasibility.
+I have successfully tested loading sample entries to confirm the data structure and feasibility. I plan to clean and restructure the data by exploding restaurant categories into individual rows, then aggregating review counts and average ratings at the category level. This will allow me to compare which cuisines are most common, which receive the most engagement, and whether popular categories also achieve high ratings.
 
 ## 3. First Sketches (Initial Visualization Plans)
 
