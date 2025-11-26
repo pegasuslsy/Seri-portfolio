@@ -8,52 +8,57 @@ https://preview.shorthand.com/3Ph0AKYR5kX9BU8n
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The primary audience for this visualization consists of individuals who make dining decisions using online platforms such as Yelp—specifically college students and young professionals living in urban areas. These users regularly interact with restaurant listings, ratings, and reviews, and rely on them when choosing where to eat. They are also familiar with cultural food trends and are heavily influenced by peer-generated feedback.
+
+To identify representative interviewees, I selected individuals who have experience using online review platforms at least once a week and who represent different levels of familiarity with data visualizations. This ensures the feedback reflects diverse perspectives: casual users, data-aware users, and frequent Yelp readers.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+·Understand whether users immediately grasp the message of each visualization.
+
+·Evaluate whether users can identify key insights without reading long text.
+
+·Assess clarity of labeling, chart design, and ordering of elements.
+
+·Determine whether the story feels relevant and easy to follow.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Comprehension | What do you think this visualization is showing? |
+| Insight | What is the main takeaway you see from the chart? |
+| Clarity | Is anything confusing or difficult to interpret? |
+| Navigation | Do you know where to start reading the story? |
+| Relevance | Does this information feel useful or interesting to you? |
+| Design | Are the colors, labels, and layout easy to interpret? |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+| Questions | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+| What stands out first? | “Pizza and Mexican categories are huge.” | “I can immediately see the ranking.” | “I noticed which cuisines are most popular.” |
+| Most useful visualization? | “The scatter plot tells the story best.” | “The bar chart is very clear.” | “The review count vs rating chart makes sense.” |
+| Anything confusing? | “Some labels are long.” | “The side filters feel unnecessary.” | “Would like more highlighted points.” |
+| Suggested improvement | “Emphasize the key categories.” | “Avoid clutter.” | “Explain high popularity better.” |
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+**Key takeaways**
+- Users understand the message without needing long text.
+- The scatter plot received the strongest positive feedback.
+- Some category labels felt long or repetitive.
+- Users wanted clearer emphasis and more guidance.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+  
+| Research Findings | Anticipated Changes for Part III |
+|-------------------|---------------------------------|
+| Some category names are long | Shorten labels and simplify naming |
+| Users want highlighted cuisines | Add color emphasis and annotations |
+| Flow direction needs clarity | Strengthen narrative transitions |
+| Layout feels crowded | Remove unnecessary filters and reduce padding |
+| Scatter plot is preferred | Feature earlier in the story |
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+---
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
