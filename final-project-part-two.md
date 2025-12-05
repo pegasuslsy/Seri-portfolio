@@ -66,7 +66,11 @@ To identify representative interviewees, I selected individuals who have experie
 Text here!
 
 ## References
-_List any references you used here._
+Primary Dataset:  
+Yelp Open Dataset (Accessed November 2024) 
+https://business.yelp.com/data/resources/open-dataset/
+
+Additional citations appear directly in my Shorthand story.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
