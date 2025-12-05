@@ -73,5 +73,10 @@ https://business.yelp.com/data/resources/open-dataset/
 Additional citations appear directly in my Shorthand story.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used generative AI tools under course guidelines for:
+- seeking for improvemrnt suggestions
+- Brainstorming storytelling flow
+
+All data analysis, chart creation, and strategic design decisions were completed by me.
+
 
