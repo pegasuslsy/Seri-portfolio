@@ -54,7 +54,8 @@ Throughout the process, I learned that **data visualization only works when the 
 
 ## References
 Primary Dataset:  
-Yelp Open Dataset (Accessed November 2024)  
+Yelp Open Dataset (Accessed November 2024) 
+https://business.yelp.com/data/resources/open-dataset/
 
 Additional citations appear directly in my Shorthand story.
 
